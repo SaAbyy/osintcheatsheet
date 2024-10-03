@@ -6,7 +6,7 @@ title: Osint cheat sheet
 
 |  | Signification |
 |-|-|
-|  | Mis à jour le 26/06/24 |
+|  | Mis à jour le 03/10/24 |
 | 📦 | Package à installer |
 | 🌐 | Disponible en web |
 | 💻 | tool en ligne de commande |
@@ -26,6 +26,7 @@ title: Osint cheat sheet
 - [🌐 - epieos](https://epieos.com/)
 - [🌐 - Hunter (mail pro) | Vérifier une adresse mail](https://hunter.io/)
 - [🌐 - EmailHippo | Vérifier une adresse mail](https://tools.emailhippo.com/)
+- [🌐 - Simple Email Reputation | Vérifier la réputation d'une adresse mail](https://emailrep.io/)
 
 ### Recherche par visage
 
@@ -47,6 +48,7 @@ title: Osint cheat sheet
 - [🌐💲 - Snusbase | Database Search Engine](https://snusbase.com/)
 - [🌐💲 - Dehashed | Database Search Engine](https://dehashed.com/)
 - [🌐💲 - IntelX | Database Search Engine](https://intelx.io/)
+- [🌐 - Osint Rocks | Multi-tools](https://osint.rocks/)
 
 ## [IMINT]
 
@@ -62,6 +64,7 @@ title: Osint cheat sheet
 ### Autres
 
 - [🌐 - Déflouter une photo](https://www.myheritage.com/photo-enhancer)
+- [📦  - Dépixéliser une photo](https://github.com/spipm/Depix)
 
 ## [GEOINT] 
 
@@ -117,7 +120,9 @@ title: Osint cheat sheet
 - [🌐 - Shodan](https://www.shodan.io/)
 - [🌐 - Hunter.how](https://hunter.how/)
 - [🌐 - FOFA](https://en.fofa.info/)
-- [🌐 - censys](https://search.censys.io/)
+- [🌐 - Censys](https://search.censys.io/)
+- [🌐 - CriminalIP](https://www.criminalip.io/)
+- [🌐 - Web-Check](https://web-check.xyz/)
 
 ## [OPSEC] 
 
@@ -161,4 +166,3 @@ title: Osint cheat sheet
 - [🌐 - Onion Search Engine](https://onionengine.com/)
 - [🌐 - i2psearch](https://i2psearch.com/)
 - [🌐 - Ahmia | Recherche les services cachés sur le réseau Tor](https://ahmia.fi/)
-
