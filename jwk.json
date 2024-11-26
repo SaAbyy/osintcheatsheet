@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",  // Type de la clé (RSA)
+      "kid": "1234567890abcdef",  // Identifiant unique de la clé
+      "use": "sig",  // Utilisation de la clé : ici pour la signature
+      "alg": "RS256",  // Algorithme de signature
+      "n": "sXchY70t6V7sov1bhYzxg9y8tLfocb1FJQ-dByLNyzMkX1cD0g7pzYO8mME5tQmm_7L0F96tTVlYXikjLzCEbMh4rNfKqT1J4ljXXZmTlQ6aXh8G8Z3Ne6H_1_qAe5G8DzEZgDhMC7D_bO95YwIqlJk7Bv9i97teMYkz0whg-GtIscHvvPfHzCmNVJxS0Hb7GyGoy0sfYsKIgQDQI7Tz8vFJdW3XJHlywZn-BQgs72ytGlZTJ95PywM84g00jLytlps8i5arMmSQg92CNwmi2zQ2L0SPOtq9Ujxg8cb0sCST7MxlRdcmmf9Sss4vM4w",  // Modulus (n) en base64url
+      "e": "AQAB"  // Exposant (e) en base64url (65537 en base10)
+    }
+  ]
+}
